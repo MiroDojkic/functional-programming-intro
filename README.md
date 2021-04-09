@@ -6,6 +6,8 @@ Examples used at DUMP internship lecture, demonstrating basic functional program
 
 [Channel9: Functional Programming Fundamentals by Erik Meijer](https://www.youtube.com/watch?v=UIUlFQH4Cvo&list=PLoJC20gNfC2gpI7Dl6fg8uj1a-wfnWTH8)
 
+[Bret Victor: The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+
 ## Books and papers
 [Structure and Interpretation of Computer Programs by Harold Abelson, Gerald Jay Sussman, Julie Sussman](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/)
 
