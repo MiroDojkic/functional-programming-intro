@@ -15,7 +15,7 @@ maintainer:          mdojkic@gmail.com
 -- copyright:
 -- category:
 build-type:          Simple
-extra-source-files:  CHANGELOG.md, README.md
+extra-source-files:  README.md
 
 executable functional-programming-intro
   main-is:             Main.hs
