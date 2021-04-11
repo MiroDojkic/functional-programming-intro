@@ -2,7 +2,7 @@
 Examples used at DUMP internship lecture, demonstrating basic functional programming concepts.
 
 ## Running the examples
-In order to run the functions defined in `Main.hs`, install the [cabal-install](https://wiki.haskell.org/Cabal-Install) package.
+In order to run the functions defined in [Main.hs](https://github.com/MiroDojkic/functional-programming-intro/blob/main/Main.hs), install the [cabal-install](https://wiki.haskell.org/Cabal-Install) package.
 After install, Cabal's package index might need an update:
 ```
 cabal update
