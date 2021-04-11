@@ -1,6 +1,29 @@
 # Intro to functional programming
 Examples used at DUMP internship lecture, demonstrating basic functional programming concepts.
 
+## Running the examples
+In order to run the functions defined in `Main.hs`, install the [cabal-install](https://wiki.haskell.org/Cabal-Install) package.
+After install, Cabal's package index might need an update:
+```
+cabal update
+```
+
+Examples can be tested in the Cabal REPL. To start it, run:
+```
+cabal repl
+```
+
+You can then invoke the loaded functions within the REPL.
+For example:
+```
+sum [1..10]
+```
+
+To run the tests, call the following function within the Cabal REPL:
+```
+quickCheck prop_<test_name>
+```
+
 ## Links
 [Google TechTalks: Haskell Amuse-Bouche by Mark Lentczner](https://www.youtube.com/watch?v=b9FagOVqxmI)
 
