@@ -25,13 +25,17 @@ quickCheck prop_<test_name>
 ```
 
 ## Running the JavaScript examples
-To run the functions defined in javascript-examples folder, install [NodeJS](https://nodejs.org/en/).
+To run the functions defined in [javascript-examples](https://github.com/MiroDojkic/functional-programming-intro/tree/main/javascript-examples) folder, install [NodeJS](https://nodejs.org/en/).
 Spin up the NodeJS interactive REPL with:
 ```
 node -i
 ```
 
 Load the module by executing `.load` command within the REPL.
+For example
+```
+.load javascript-examples/setState.js
+```
 
 You should be able to see the results of the executed function calls
 as well as call the defined functions within the REPL! :tada:
