@@ -1,7 +1,7 @@
 # Intro to functional programming
 Examples used at DUMP internship lecture, demonstrating basic functional programming concepts.
 
-## Running the examples
+## Running the Haskell examples
 In order to run the functions defined in [Main.hs](https://github.com/MiroDojkic/functional-programming-intro/blob/main/Main.hs), install the [cabal-install](https://wiki.haskell.org/Cabal-Install) package.
 After install, Cabal's package index might need an update:
 ```
@@ -23,6 +23,19 @@ To run the tests, call the following function within the Cabal REPL:
 ```
 quickCheck prop_<test_name>
 ```
+
+## Running the JavaScript examples
+To run the functions defined in javascript-examples folder, install [NodeJS](https://nodejs.org/en/).
+Spin up the NodeJS interactive REPL with:
+```
+node -i
+```
+
+Load the module by executing `.load` command within the REPL.
+
+You should be able to see the results of the executed function calls
+as well as call the defined functions within the REPL! :tada:
+
 
 ## Links
 [Google TechTalks: Haskell Amuse-Bouche by Mark Lentczner](https://www.youtube.com/watch?v=b9FagOVqxmI)
